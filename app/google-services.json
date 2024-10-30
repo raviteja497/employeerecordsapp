@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748013728154",
+    "project_id": "employeerecordsapp",
+    "storage_bucket": "employeerecordsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748013728154:android:aa396e2cb32a3c05568a23",
+        "android_client_info": {
+          "package_name": "com.example.employeerecordsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnbcW_VhMUdDLGAdMB9G8OKsiC7a9TBHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

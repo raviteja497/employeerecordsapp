@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EmployeeRecordsApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/blue</item> <!-- Primary color set to grey -->
+        <item name="colorPrimaryVariant">@color/blue</item> <!-- Primary variant set to a darker shade of grey -->
+        <item name="colorAccent">@color/blue</item>
+        <item name="android:windowBackground">#FBF9F1</item> <!-- Set the default background color to orange -->
+    </style>
+
+    <style name="Theme.EmployeeRecordsApp" parent="Base.Theme.EmployeeRecordsApp" />
+</resources>
